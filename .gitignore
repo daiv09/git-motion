@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# manim & data
+/public/renders/
+/repo_data.json
+/venv/
+media/
+__pycache__/
+*.mp4
